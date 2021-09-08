@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 1
+  is_simulated: false
+  error: MyString
+  authorization_approved: false
+  account_number: MyString
+  card_id: MyString
+  currency_code: MyString
+  date_time: 2020-04-27 13:27:24
+  type: 
+
+two:
+  amount: 1
+  is_simulated: false
+  error: MyString
+  authorization_approved: false
+  account_number: MyString
+  card_id: MyString
+  currency_code: MyString
+  date_time: 2020-04-27 13:27:24
+  type: 
